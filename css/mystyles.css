@@ -1,0 +1,29 @@
+.common{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    margin-top:-50px;
+}
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    
+}
+
+.body{
+    color: black;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.link{
+    background-color:black;
+    color: lightblue;
+}
